@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
+# 用饼图的面积及颜色展示一组4维数据
 if __name__ == "__main__":
     # 随机数生成器
     rdm = np.random.RandomState(1)
@@ -9,15 +10,15 @@ if __name__ == "__main__":
     x = rdm.randn(100)
     y = rdm.randn(100)
     # 颜色种类，范围：[0,1)
-    colors=rdm.rand(100)
+    colors = rdm.rand(100)
 
     print('x:', x)
     print('y:', y)
     print('colors:', colors)
 
     # 尺寸种类
-    sizes=1000*rdm.rand(100)
+    sizes = 1000 * rdm.rand(100)
 
-    plt.scatter(x,y,c=colors,s=sizes,alpha=0.3)
+    plt.scatter(x, y, c=colors, s=sizes, alpha=0.3)
     plt.colorbar()
     plt.show()
