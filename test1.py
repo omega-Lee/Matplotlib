@@ -3,7 +3,7 @@ import numpy as np
 
 
 # polt函数，画曲线
-def draw():
+def plot():
     x = np.linspace(0, 10, 30)
     print(x)
     '''
@@ -17,4 +17,4 @@ def draw():
 
 
 if __name__ == "__main__":
-    draw()
+    plot()
