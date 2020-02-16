@@ -2,6 +2,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 
+# 用plot方法画出x=(0,10)间sin的图像
+
 # polt函数，画曲线
 def plot():
     x = np.linspace(0, 10, 30)
