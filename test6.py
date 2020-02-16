@@ -12,5 +12,5 @@ if __name__ == "__main__":
     # hist type:线条的类型
     # density:频数统计结果，频率统计结果=区间数目/(总数*区间宽度)
 
-    plt.hist(x=data,bins=10,color='gray',histtype='bar',density=True)
+    plt.hist(x=data,bins=100,color='gray',histtype='bar',density=True)
     plt.show()
