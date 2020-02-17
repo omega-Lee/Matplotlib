@@ -18,4 +18,6 @@ if __name__ == '__main__':
     # get_cmap:色阶类型
     plt.imshow(y1,cmap=plt.cm.get_cmap('Spectral', 10))
     plt.colorbar()
+    # 色阶范围
+    plt.clim(-1, 1)
     plt.show()
