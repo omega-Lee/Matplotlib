@@ -16,6 +16,7 @@ if __name__ == '__main__':
     plt.xlabel('---X---')
     plt.ylabel('---Y---')
 
+    # 设置标题
     plt.title('Sin Function')
 
     plt.show()
