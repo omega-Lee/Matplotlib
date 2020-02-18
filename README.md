@@ -57,3 +57,25 @@
 ![GitHub set up](https://github.com/omega-Lee/Matplotlib/tree/master/image/get_cmap.png)
 ### 离散色阶
 ![GitHub set up](https://github.com/omega-Lee/Matplotlib/tree/master/image/离散色阶.png)
+
+### 嵌套fig
+![GitHub set up](https://github.com/omega-Lee/Matplotlib/tree/master/image/嵌套fig.png)
+### 双子图
+![GitHub set up](https://github.com/omega-Lee/Matplotlib/tree/master/image/双子图.png)
+### 生成6子图
+![GitHub set up](https://github.com/omega-Lee/Matplotlib/tree/master/image/生成6子图.png)
+### 共享xy轴
+![GitHub set up](https://github.com/omega-Lee/Matplotlib/tree/master/image/共享xy轴.png)
+### 使用[]取子图
+![GitHub set up](https://github.com/omega-Lee/Matplotlib/tree/master/image/使用[]取子图.png)
+### 不规则子图
+![GitHub set up](https://github.com/omega-Lee/Matplotlib/tree/master/image/不规则子图.png)
+### xy频度分布
+![GitHub set up](https://github.com/omega-Lee/Matplotlib/tree/master/image/xy频度分布.png)
+### 3d图
+![GitHub set up](https://github.com/omega-Lee/Matplotlib/tree/master/image/3d图.png)
+### 螺线图+数据
+![GitHub set up](https://github.com/omega-Lee/Matplotlib/tree/master/image/螺线图+数据.png)
+### 3d螺线图
+![GitHub set up](https://github.com/omega-Lee/Matplotlib/tree/master/image/3d螺线图.png)
+
