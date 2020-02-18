@@ -3,6 +3,7 @@ import numpy as np
 
 if __name__ == '__main__':
 
+    plt.figure()
     # 1...6
     # subplot(x, y, i):将当前窗口分成x行y列，当前位置为第i个
     for i in range(1, 7):
